@@ -1,2 +1,2 @@
-# Alarm-Clock
-Alarm Clock in Visual Studio (.Net Framework - C#)
+# Quiz Game
+Quiz Game in Visual Studio (.Net Framework - C#)
