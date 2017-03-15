@@ -1,0 +1,1089 @@
+﻿[
+  // --- HISTORY - EASY ----------------------------------------------------------------------------------------------------
+  {
+    "id": 1,
+    "question": "Which country was partitioned by Austria, Russia and Prussia throughout the 1800s?",
+    "answers": [ "Finland", "Poland", "Romania", "Switzerland" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 2,
+    "question": "Which European country was ruled by Francisco Franco between 1939 and 1975?",
+    "answers": [ "Italy", "Malta", "Portugal", "Spain" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 3,
+    "question": "Which Greek leader created a large empire before he died in 323BC?",
+    "answers": [ "Alexander The Great", "Leonidas", "Lysander", "Philip of Macedon" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 4,
+    "question": "What became of Marie Antoinette on 16th October 1793?",
+    "answers": [ "She was deported", "She was divorced", "She was beheaded", "She was pardoned" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 5,
+    "question": "What was the name of the regime in Germany between 1918 and 1933?",
+    "answers": [ "North German Confederation", "Second German Empire", "Third Reich", "Weimar Republic" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 6,
+    "question": "From which country did Belgium achieve independence in 1831?",
+    "answers": [ "Denmark", "Italy", "Luxembourg", "Netherlands" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 7,
+    "question": "In which year did Hitler's Germany annexe Austria?",
+    "answers": [ "1930", "1933", "1936", "1938" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 8,
+    "question": "In which field of art is the Italian master Giotto best known?",
+    "answers": [ "Architecture", "Ballet", "Painting", "Sculpture" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 9,
+    "question": "In which city can be found the Ny Carlsberg Glyptotek art museum?",
+    "answers": [ "Athens", "Copenhagen", "Lisbon", "Sofia" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 10,
+    "question": "How was the \"Kingdom of Serbs, Croats and Slovenes\" re-named in 1929?",
+    "answers": [ "Bulgaria", "Czechoslovakia", "Yugoslavia", "Romania" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 11,
+    "question": "Which religious leader was assassinated on 4th April 1968?",
+    "answers": [ "Jesse Jackson", "Martin Luther King", "Mother Theresa", "Pope Paul" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 12,
+    "question": "What nationality was the 15th & 16th century navigator, Vasco da Gama?",
+    "answers": [ "Peruvian", "Polish", "Polynesian", "Portuguese" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 13,
+    "question": "What mode of transport did Thor Heyerdahl use to cross the South Pacific in 1947?",
+    "answers": [ "Hot air balloon", "Hovercraft", "Raft", "Rubber dinghy" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 14,
+    "question": "In which century did the Italian painter, Titian, produce his most famous works?",
+    "answers": [ "13th century", "16th century", "18th century", "19th century" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 15,
+    "question": "Which two countries fought at the Battle of Agincourt, 1415?",
+    "answers": [ "England and France", "England and Spain", "France and Netherlands", "France and Prussia" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 16,
+    "question": "When did Marilyn Monroe's final film \"The Misfits\" get released?",
+    "answers": [ "1952", "1955", "1958", "1961" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 17,
+    "question": "Which trade union was led by the Pole, Lech Walesa in the 1980s?",
+    "answers": [ "Solidarity", "Solidity", "Union of Gdansk Dockers", "Union of Polish Dockworkers" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 18,
+    "question": "In which South American country did the Incas establish their capital?",
+    "answers": [ "Chile", "Colombia", "Ecuador", "Peru" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 19,
+    "question": "What nationality was the philosopher and mathematician, Pythagoras?",
+    "answers": [ "Greek", "Persian", "Roman", "Trojan" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 20,
+    "question": "Which 51-mile waterway opened to traffic in August 1914?",
+    "answers": [ "Manchester Ship Canal", "Panama Canal", "St Lawrence Seaway", "Suez Canal" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 0,
+    "played": false
+  },
+  // --- HISTORY - HARD ----------------------------------------------------------------------------------------------------
+  {
+    "id": 21,
+    "question": "Which ancient kingdom had Prague as its capital?",
+    "answers": [ "Bohemia", "Carpathia", "Moravia", "Silesia" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 22,
+    "question": "How much of the vote did the Communists get in the 1945 French general election?",
+    "answers": [ "10 per cent", "15 per cent", "20 per cent", "15 per cent" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 23,
+    "question": "When did Turkey's old capital Constantinople get re-named Istanbul?",
+    "answers": [ "1914 ", "1918", "1923", "1930" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 24,
+    "question": "In which century did the Hanseatic League's assembly last meet?",
+    "answers": [ "15th century", "16th century", "17th century", "18th century" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 25,
+    "question": "By the mid 17th century, which city was the world's financial centre?",
+    "answers": [ "Amsterdam", "Antwerp", "London", "Venice" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 26,
+    "question": "Where was the International Red Cross founded in 1864?",
+    "answers": [ "Basel", "Bern", "Geneva", "Zurich" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 27,
+    "question": "Who invaded Southern Italy in the 11th century and established a kingdom there?",
+    "answers": [ "Greeks", "Moors", "Normans", "Saxons" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 28,
+    "question": "In which decade did Swedish physicist Alfred Nobel patent dynamite?",
+    "answers": [ "1840s", "1860s", "1880s", "1900s" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 29,
+    "question": "Whose grandson was responsible for destroying the city of Kiev in 1240?",
+    "answers": [ "Genghis Khan", "Ivan The Terrible", "Marco Polo", "William The Conqueror" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 30,
+    "question": "How many Dreadnought battleships did Britain have at the start of World War 1?",
+    "answers": [ "2", "12", "20", "100" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 31,
+    "question": "Approximately how many men did the British lose at the Battle of Jutland in 1916?",
+    "answers": [ "3300", "4300", "5300", "6300" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 32,
+    "question": "In which year did Chaucer complete \"The Canterbury Tales\"?",
+    "answers": [ "1397", "1398", "1399", "Unfinished" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 33,
+    "question": "Of which independent state did Kwame Nkrumah become the first Prime Minister?",
+    "answers": [ "Ghana", "Nigeria", "Sierra Leone", "Uganda" ],
+    "correctAnswer": 0,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 34,
+    "question": "In which year was Marie-Antoinette executed?",
+    "answers": [ "1790", "1791", "1792", "1793" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 35,
+    "question": "Where did the Venetian merchant and adventurer Marco Polo die?",
+    "answers": [ "Acre", "Constantinople", "Hormuz", "Venice" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 36,
+    "question": "In which year did the Middle East's \"Six Day War\" take place?",
+    "answers": [ "1965", "1966", "1967", "1968" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 37,
+    "question": "Against which country did Russia wage war in 1904-05?",
+    "answers": [ "China", "Finland", "Japan", "Turkey" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 38,
+    "question": "Founded in 1746, which is the fourth-oldest university in the USA?",
+    "answers": [ "Harvard", "Pennsylvania", "Princeton", "Yale" ],
+    "correctAnswer": 2,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 39,
+    "question": "During the reign of Gustav IV, which country lost the territory of Finland in 1808?",
+    "answers": [ "Denmark", "Estonia", "Norway", "Sweden" ],
+    "correctAnswer": 3,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 40,
+    "question": "In which country did the South American freedom fighter Simón Bolívar die in 1830?",
+    "answers": [ "Bolivia", "Colombia", "Peru", "Venezuela" ],
+    "correctAnswer": 1,
+    "category": 0,
+    "difficulty": 1,
+    "played": false
+  },
+  // GEOGRAPHY - EASY ----------------------------------------------------------------------------------------------------
+  {
+    "id": 41,
+    "question": "In which continent is the Atacama Desert?",
+    "answers": [ "Asia", "Europe", "North America", "South America" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 42,
+    "question": "What is the capital of Australia?",
+    "answers": [ "Canberra", "Melbourne", "Perth", "Sydney" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 43,
+    "question": "Which is the smallest state in the USA?",
+    "answers": [ "Idaho", "New Jersey", "Rhode Island", "Vermont" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 44,
+    "question": "Which two countries make up the Iberian peninsula?",
+    "answers": [ "Argentina and Chile", "Greece and Turkey", "Norway and Sweden", "Portugal and Spain" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 45,
+    "question": "The Sargasso Sea is part of which ocean?",
+    "answers": [ "Arctic", "Atlantic", "Indian", "Pacific" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 46,
+    "question": "Las Ramblas is a popular tourist area in which Spanish city?",
+    "answers": [ "Barcelona", "Granada", "Seville", "Valencia" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 47,
+    "question": "In which US state is the Grand Canyon National Park?",
+    "answers": [ "Arizona", "Nevada", "New Mexico", "Texas" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 48,
+    "question": "What is the official language of Brazil?",
+    "answers": [ "Brazilian", "French", "Portuguese", "Spanish" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 49,
+    "question": "Rabat is the capital of which African country?",
+    "answers": [ "Algeria", "Libya", "Morocco", "Tunisia" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 50,
+    "question": "The remains of the ancient city of Babylon can be found in which modern country?",
+    "answers": [ "Iran", "Iraq", "Israel", "Jordan" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 51,
+    "question": "In which European country is the city of Salzburg?",
+    "answers": [ "Austria", "Czech Republic", "Germany", "Switzerland" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 52,
+    "question": "To which EU member state do the islands of Gozo and Comino belong?",
+    "answers": [ "Cyprus", "Greece", "Italy", "Malta" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 53,
+    "question": "Where in Italy can the Ponte Vecchio be found?",
+    "answers": [ "Florence", "Naples", "Rome", "Venice" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 54,
+    "question": "Into which sea does the River Danube flow?",
+    "answers": [ "Baltic Sea", "Black Sea", "Mediterranean Sea", "North Sea" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 55,
+    "question": "Above which city does Panorama rise?",
+    "answers": [ "Thessaloniki", "Toulouse", "Trondheim", "Turin" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 56,
+    "question": "Known in Flemish as \"Luik\" what is the French name for this Belgian city?",
+    "answers": [ "Charleroi", "Liège", "Mons", "Namur" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 57,
+    "question": "\"Which European country is denoted by the letters \"CH\" on motor vehicles?\"",
+    "answers": [ "Croatia", "Cyprus", "Czech Republic", "Switzerland" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 58,
+    "question": "Which European country was re-unified on 3rd October 1990?",
+    "answers": [ "Cyprus", "Germany", "Poland", "Russia" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 59,
+    "question": "Which country, whose capital is Tallinn, became independent from the USSR in 1991?",
+    "answers": [ "Estonia", "Finland", "Slovakia", "Slovenia" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 60,
+    "question": "Which river flows through the Irish capital, Dublin?",
+    "answers": [ "Boyne", "Lee", "Liffey", "Shannon" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 0,
+    "played": false
+  },
+  // GEOGRAPHY - HARD ----------------------------------------------------------------------------------------------------
+  {
+    "id": 61,
+    "question": "Which German city lies farthest south - Dortmund, Duisburg, Essen or Leipzig?",
+    "answers": [ "Dortmund", "Duisburg", "Essen", "Leipzig" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 62,
+    "question": "Of Greece's 2000 islands, how many are inhabited?",
+    "answers": [ "70", "170", "700", "1700" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 63,
+    "question": "What is the administrative centre of County Kildare in Ireland?",
+    "answers": [ "Athy", "Kildare", "Naas", "Newbridge" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 64,
+    "question": "Near which Italian city is Frascati wine produced?",
+    "answers": [ "Naples", "Rome", "Venice", "Verona" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 65,
+    "question": "In which country is Lake Balaton?",
+    "answers": [ "Czech Republic", "Hungary", "Slovakia", "Slovenia" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 66,
+    "question": "Which Spanish city contains the Alcázar, whose construction began in 1531?",
+    "answers": [ "Burgos", "Saragossa", "Seville", "Toledo" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 67,
+    "question": "Famous for its local cheese, near which city is Roquefort located?",
+    "answers": [ "Bordeaux", "Montpellier", "Perpignan", "Toulouse" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 68,
+    "question": "Of which sport is \"pesäpallo\" a local Finnish variation?",
+    "answers": [ "Baseball", "Croquet", "Darts", "Water Polo" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 69,
+    "question": "Which European country was ruled until 1985 by Enver Hoxha?",
+    "answers": [ "Albania", "Bulgaria", "Lithuania", "Ukraine" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 70,
+    "question": "Which has the largest population - Bremen, Lille, Ljubljana or Reykjavik?",
+    "answers": [ "Bremen", "Lille", "Ljubljana", "Reykjavik" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 71,
+    "question": "Which is Europe's highest capital city?",
+    "answers": [ "Bern", "Oslo", "Madrid", "Vienna" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 72,
+    "question": "In which US city is John Hopkins University?",
+    "answers": [ "Baltimore", "Boston", "Denver", "New Orleans" ],
+    "correctAnswer": 0,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 73,
+    "question": "Jakarta, the capital of Indonesia, is located on which island?",
+    "answers": [ "Borneo", "Java", "New Guinea", "Timor" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 74,
+    "question": "Which two countries are separated by the Denmark Strait?",
+    "answers": [ "Denmark and Germany", "Denmark and Sweden", "Greenland and Iceland", "Sweden and Finland" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 75,
+    "question": "Which is the only one of the Great Lakes entirely within the United States?",
+    "answers": [ "Erie", "Huron", "Michigan", "Superior" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 76,
+    "question": "Which Indian city was renamed Chennai in 1996?",
+    "answers": [ "Bombay", "Calcutta", "Delhi", "Madras" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 77,
+    "question": "Which is the largest city on New Zealand's South Island?",
+    "answers": [ "Auckland", "Christchurch", "Dunedin", "Wellington" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 78,
+    "question": "Lake Titicaca is situated between which two South American countries?",
+    "answers": [ "Bolivia and Paraguay", "Bolivia and Peru", "Colombia and Peru", "Ecuador and Peru" ],
+    "correctAnswer": 1,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 79,
+    "question": "Which European capital city stands on fourteen islands?",
+    "answers": [ "Copenhagen", "Lisbon", "Oslo", "Stockholm" ],
+    "correctAnswer": 3,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 80,
+    "question": "In which European country is the Dao wine region?",
+    "answers": [ "Hungary", "Italy", "Portugal", "Spain" ],
+    "correctAnswer": 2,
+    "category": 1,
+    "difficulty": 1,
+    "played": false
+  },
+  // POLITICS - EASY ----------------------------------------------------------------------------------------------------
+  {
+    "id": 81,
+    "question": "What is the first name of Russia's President Putin?",
+    "answers": [ "Valentin", "Valentin", "Vladimir", "Vladivar" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 82,
+    "question": "Whom is the Queen's representative in Australia?",
+    "answers": [ "Governor-General", "President", "Prime Minister", "Prince of New South Wales" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 83,
+    "question": "Whom did George W. Bush defeat in the elections of November 2004?",
+    "answers": [ "Al Gore", "Arnold Schwarzenegger", "John Kerry", "Rudy Giuliani" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 84,
+    "question": "Augusto Pinochet, who died in late 2006, had previously led which country?",
+    "answers": [ "Argentina", "Brazil", "Chile", "Ecuador" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 85,
+    "question": "What was the name of the Japanese Prime Minister who called an election in 2005?",
+    "answers": [ "Junichiro Koizumi", "Katsuya Okada", "Shizuka Kamei", "Yasuo Tanaka" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 86,
+    "question": "Where in 2005 was Michaëlle Jean sworn in as Governor-General?",
+    "answers": [ "Bahamas", "Bermuda", "Canada", "Cayman Islands" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 87,
+    "question": "Where in 2006 was Luiz Inácio Lula da Silva the President of 184 million people?",
+    "answers": [ "Argentina", "Brazil", "Colombia", "Portugal" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 88,
+    "question": "In which country did Lech Kaczynski win the Presidential election in 2005?",
+    "answers": [ "Czech Republic", "Hungary", "Poland", "Slovakia" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 89,
+    "question": "Of which African country was Jomo Kenyatta the first President?",
+    "answers": [ "Kenya", "Malawi", "Tanzania", "Uganda" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 90,
+    "question": "Who served as President of the USA between 1993 and 2001?",
+    "answers": [ "Al Gore", "Bill Clinton", "George Bush senior", "Jimmy Carter" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 91,
+    "question": "At election time, which American state has the most electoral votes?",
+    "answers": [ "Alabama", "California", "Missouri", "Pennsylvania" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 92,
+    "question": "Which American President resigned from office in 1974?",
+    "answers": [ "Gerald Ford", "Jimmy Carter", "Lyndon Johnson", "Richard Nixon" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 93,
+    "question": "From which state did American President Jimmy Carter originate?",
+    "answers": [ "Georgia", "Maine", "Nebraska", "New Mexico" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 94,
+    "question": "Who won 266 electoral votes at the US Presidential election of November 2000?",
+    "answers": [ "Al Gore", "Bill Clinton", "Colin Powell", "Dan Quayle" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 95,
+    "question": "Who contested the USA Presidential election in November 2004 for the Democrats?",
+    "answers": [ "John Berry", "John Kerry", "John Perry", "John Terry" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 96,
+    "question": "Who was sworn in as California's Governor in November 2003?",
+    "answers": [ "Arnold Schwarzenegger", "Charlton Heston", "Clint Eastwood", "Harrison Ford" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 97,
+    "question": "The two American Houses of Congress comprise the Senate and which other?",
+    "answers": [ "Of Deputies", "Of Lords", "Of Parliament", "Of Representatives" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 98,
+    "question": "Which two political parties traditionally contest American elections?",
+    "answers": [ "Congress and Senate", "Democrats and Liberals", "Democrats and Republicans", "Liberals and Republicans" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 99,
+    "question": "What size of majority did George W Bush achieve in the 2004 Presidential election?",
+    "answers": [ "2 electoral votes", "12 electoral votes", "35 electoral votes", "127 electoral votes" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  {
+    "id": 100,
+    "question": "When elected as Conservative Party leader, who did David Cameron defeat?",
+    "answers": [ "David Davies", "George Osborne", "John Redwood", "Ken Clarke" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 0,
+    "played": false
+  },
+  // POLITICS - HARD ----------------------------------------------------------------------------------------------------
+  {
+    "id": 101,
+    "question": "In which country was Viktor Yushchenko inaugurated as President in January 2005?",
+    "answers": [ "Belarus", "Moldova", "Slovakia", "Ukraine" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 102,
+    "question": "Which European country did Konrad Adenauer lead between 1949 and 1963?",
+    "answers": [ "Austria", "East Germany", "Switzerland", "West Germany" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 103,
+    "question": "Who became the President of Hungary on 5th August 2005?",
+    "answers": [ "Ferenc Gyurcsany", "Ferenc Madl", "Katalin Szili", "Laszlo Solyom" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 104,
+    "question": "Which country joined the EC in 1973 at the same time as Ireland and the UK?",
+    "answers": [ "Austria", "Denmark", "Norway", "Sweden" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 105,
+    "question": "Of which country did Andrus Ansip become Prime Minister in April 2005?",
+    "answers": [ "Estonia", "Finland", "Latvia", "Lithuania" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 106,
+    "question": "Where did the European Free Trade Association establish its headquarters?",
+    "answers": [ "Geneva", "Montreux", "Oslo", "Zürich" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 107,
+    "question": "Under whom was Greek democracy restored in 1974?",
+    "answers": [ "Karamanlis", "Mitsotakis", "Papandreou", "Stephanopoulos" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 108,
+    "question": "Where in 2004 was King Norodom Sihanouk succeeded by King Norodom Sihamoni?",
+    "answers": [ "Laos", "Cambodia", "Thailand", "Vietnam" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 109,
+    "question": "When was Néstor Kirchner elected President of Argentina?",
+    "answers": [ "2001", "2002", "2003", "2004" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 110,
+    "question": "Who is the head of state in Mexico?",
+    "answers": [ "Chief Senator", "First Minister", "President", "Prime Minister" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 111,
+    "question": "To where did civil rights advocate Rosa Parks move from Alabama?",
+    "answers": [ "Chicago", "Detroit", "New York", "Pittsburgh" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 112,
+    "question": "When was Communist \"witch hunter\" Joseph McCarthy censured by the US Senate?",
+    "answers": [ "December 1951", "December 1952", "December 1953", "December 1954" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 113,
+    "question": "The 17th and 36th American Presidents shared a surname - what was it?",
+    "answers": [ "Adams", "Bush", "Johnson", "Roosevelt" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 114,
+    "question": "Which future American President was Eisenhower's Vice President?",
+    "answers": [ "Gerald Ford", "John Kennedy", "Lyndon Johnson", "Richard Nixon" ],
+    "correctAnswer": 3,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 115,
+    "question": "How many electoral votes did Texas have in the 2004 Presidential elections?",
+    "answers": [ "34", "44", "54", "64" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 116,
+    "question": "Which is the only American state not to have two state legislature houses?",
+    "answers": [ "Nebraska", "Nevada", "New Mexico", "New York" ],
+    "correctAnswer": 0,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 117,
+    "question": "In 1968 where did Carl Stokes become the first black mayor of a major US city?",
+    "answers": [ "Buffalo", "Cleveland", "Detroit", "Miami" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 118,
+    "question": "Approximately how many were members of the Communist Party of China in 2005?",
+    "answers": [ "6 million", "33 million", "69 million", "99 million" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 119,
+    "question": "Emir Sheikh Hamad ibn Khalifah al-Thani was head of state in 2006 of which country?",
+    "answers": [ "Abu Dhabi", "Bahrain", "Qatar", "Yemen" ],
+    "correctAnswer": 2,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  },
+  {
+    "id": 120,
+    "question": "Which organisation does not include Zambia - ACP, APEC,AU, Commonwealth?",
+    "answers": [ "ACP", "APEC", "AU", "Commonwealth" ],
+    "correctAnswer": 1,
+    "category": 2,
+    "difficulty": 1,
+    "played": false
+  }
+]
+
